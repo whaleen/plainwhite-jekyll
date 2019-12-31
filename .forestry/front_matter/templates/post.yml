@@ -18,3 +18,5 @@ fields:
 - type: text
   name: categories
   label: categories
+pages:
+- _posts/support-for-forestry-io-and-github-pages.md
